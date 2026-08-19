@@ -23,4 +23,17 @@ Las obras de William Turner de igual manera me llaman mucho la atención, en esp
 
 
 
+## Encargo 2
+
+
+*-la herramienta que más me llamó la atención de la visita de Sean, fue **Sonic pi**, me pareció una herramienta super dinámica, a mi parecer bastante didáctica y de fácil uso, aunque igual creo que quizás hay que saber un poquito la forma en como se codifican(? las acciones y tener conocimientos básicos sobre notas musicales, pero mas allá de eso, me pareció sumamente entretenido ver las diferentes variantes y posibilidades.*
+
+*-Durante su visita, Sean nos habló de el Arte generativo, hablaba de delegar el control para producir, planteó que la gravedad colaboraba dentro de la obra de Pollock, entre otras cosas.
+Antes de su visita había investigado un poco viendo parte de su trabajo disponible en YouTube, la que más me llamó la atención fue **"Ars Combinatoria"**, Sean también habló de esta obra durante la clase/charla habló de su proceso a partir de un juego de mesa, de él pintando el cubo Rubik, sus descubrimientos como los sonidos fantasmas que se producían cuando la webcam captaba números que no estaban en el cubo, incluso que el tipo de papel para los stickers de los números afectaban por como reflejaban la luz.
+Habló del proyecto que tiene junto a Felipe Weason y cómo implementaba elementos culturales como la zampoña.
+El trabajo de Sean se centra en el sonido y  por lo menos hasta ahora no he trabajado con sonido, me parece muy interesante, ya que es un mundo que desconozco, me parecería super valioso tener instancias en las que pueda adentrarme en el mundo del sonido.*
+
+*-De los referentes que Sean mostró me llamaron la atención Hans Haacke con "Condensation cube", Giovanni Anselmo con "sculpture that eat" y el que más me llamó la atención fue Nicolas Briceño con una obra del 2017 en la que trabaja a partir de redes wifi, donde cada red contenía como nombre una frase que al verse juntas se formaban oraciones. También nombro a más artistas que ya conocía, como Sol Lewitt, György Ligeti con "Poema sinfónico para 100 metrónomos", Steve Reich "Pendulum Music", entre otros.*
+
+
 
