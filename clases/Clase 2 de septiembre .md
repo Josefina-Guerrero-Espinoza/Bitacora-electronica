@@ -1,4 +1,4 @@
-# **clase Processing Mónica Bate**
+# **Clase Processing Mónica Bate**
 
 **void setup** se define una vez, reproduce el código una sola vez.
 
