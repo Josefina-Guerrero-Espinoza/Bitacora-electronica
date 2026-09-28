@@ -5,7 +5,6 @@ Para este encargo decidí ocupar de referencia el Monumento a la Tercera Interna
 además su diseño se podía abstraer mediante las primitivas de processing.
 
 
-
 En su diseño el monumento poseía un cubo, una pirámide, un cilindro y una semiesfera. Para cada uno de estos cuerpos tridimensionales ocupé una función primitiva distinta.
 para el cubo el cuadrado, para la pirámide el triángulo, para el cilindro el rectángulo y para la semiesfera el arco.
 También ocupé la función de línea para traducir las diagonales del diseño.
