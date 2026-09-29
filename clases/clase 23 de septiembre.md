@@ -19,6 +19,8 @@ Entra algo sucede algo y sale. Arduino opera como caja negra
 
 - Feedback para indicar que el estado de la maquina(tele luz roja cuando esta enchufada pero apagada, los números de los ascensores)
 
+*energia flujo de electrones*
+
 
 ### Pasos 
 - Indicarle al compu donde esta en Arduino 
@@ -92,4 +94,92 @@ delay(2000);}”
 //delay para la velocidad
 
  
+## código mama
+
+int patitaLed = //mi numero en el arduino
+
+void setup() {
+
+pinMode(patitaLed,OUTPUT);
+
+//pinMode para configuar Led como salida
+}
+
+void loop() {
+  
+//el punto. es una abstraccion con información dentro
+
+//punto();
+
+//la rayita-
+
+//raya();
+
+
+//escribamos mamá
+
+raya(); raya();//m
+
+punto();raya();//a
+
+raya(); raya();//m
+
+punto();raya();//a
+
+
+
+
+delay(150); //para cerrar la letra
+}
+
+
+void punto(){
+
+//esta funcion escribirá un punto en mi Led
+
+digitalWrite(patitaLed,HIGH);
+
+delay(100); //delay se coloca en milisegundos
+
+digitalWrite(patitaLed,LOW);
+
+delay(500);
+}
+
+
+
+void raya(){
+
+digitalwrite(patitaLed,HIGH);
+
+//HIGH lo enciende
+
+delay(1000);
+
+digitalWrite(patitaLed,LOW);
+
+//LOW lo apaga
+
+}
+
+
+
+### **Abstracciones para letras**
+
+void S (){
+punto();
+punto();
+punto();
+}
+
+void O(){
+raya();
+raya();
+raya();
+}
+
+
+//escribamos SOS
+
+S(); O(); S();
 
